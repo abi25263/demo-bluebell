@@ -1,0 +1,117 @@
+@charset "UTF-8";
+/* CSS Document */
+img {width: 100%; height:auto;max-width: 100%}
+body{background-color: #FBF9F9;font-family: 'Great Vibes', cursive;
+}
+h1 {font-family: 'Montserrat', sans-serif;}
+h1 {text-align: center;}
+
+h3 {
+	text-align: center;
+	font-family: 'Limelight', cursive;
+	color:#5165B3}
+h2{
+	text-align: center;
+	font-family: 'Shrikhand', cursive;
+	color:#EB585A;
+}
+#header{
+	background-color:#659AA2;
+    color:#000000; 
+	list-style: none;
+	text-align: left;
+	padding:20px 20px 20px 20px;
+}
+#header{
+	padding: 10px;
+	width:70%;
+}
+#header a:hover {color:yellow;}
+#leftlist,#rightlist {margin-top:75px }
+#leftlist>li {
+	display: inline-block;
+	text-align: center;
+	text-decoration-color: #060606; 
+	padding-left: 5px;
+}
+#rightlist>li{
+	display: inline-block;
+	text-align: center;
+	word-spacing: 50px;
+	padding:10px;
+}
+#leftlist>li>a {
+	text-decoration: none;
+    color: #FDFDFD; 
+	font-size: 20px;
+	font-family: Baskerville;
+	padding:10px;
+}
+
+
+#rightlist>li>a {
+	text-decoration: none;
+	color: #FDFDFD;
+	font-size: 20px;
+	font-family: Baskerville;
+}
+
+.col-8{
+	/*border:2px solid #054F84;*/
+	background-color:#D3D8C6;
+	margin:10px,0;
+	float: left;
+	font-family: Baskerville;
+	text-decoration-color:#FDFDFD ;
+	/*
+	margin-right: 0px;
+	*/
+}
+
+img{
+	float: left;
+}
+.col-4{
+	/*border:2px solid #054F84;*/
+	background-color:#D7B999;
+	margin:10px,0;
+	float: right;
+	font-family: Baskerville;
+	width: 50;
+	/*padding:10px;*/
+}
+.col-4 {
+    width: 29.33%;
+  }
+
+#footer{
+	background-color: #659AA2;
+	padding:30px;
+}
+#list>li {
+	display: inline-block;
+	text-align: center;
+	text-decoration-color: #060606; 
+	padding-left: 5px;
+}
+#list>li>a {
+	text-decoration: none;
+	color: #FDFDFD;
+	font-size: 20px;
+	font-family: Baskerville;
+	padding:20px;
+}
+#footer a:hover {color:yellow;}
+.fa {
+    padding: 25px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+	text-decoration-color:#FDFDFD; 
+    text-decoration: none;
+}
+.col-12 {
+    width: 96%;
+  }
+
+
